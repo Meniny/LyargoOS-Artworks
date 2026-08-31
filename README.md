@@ -1,6 +1,6 @@
 # LyargoOS Artwork
 
-Wallpapers, logos, and themes for [LyargoOS](https://github.com/Meniny/lyargoos) — a Void Linux based desktop distribution.
+Wallpapers, logos, and themes for [LyargoOS](https://github.com/Meniny/LyargoOS) — a Void Linux based desktop distribution.
 
 ## Structure
 
@@ -26,7 +26,7 @@ Plasma 6 format — each wallpaper is a folder with `metadata.json` + `contents/
 
 ## KDE Theme
 
-- **Color scheme**: BreezeDark-based with `#e94560` accent
+- **Color scheme**: BreezeDark-based with `#1793d1` accent
 - **SDDM login theme**: QML-based (Breeze variant)
 - **Desktop theme**: Plasma desktop theme with custom colors
 
@@ -39,7 +39,7 @@ Plasma 6 format — each wallpaper is a folder with `metadata.json` + `contents/
 
 ## Packaging
 
-Consumed by [lyargoos-repo](https://github.com/Meniny/lyargoos-repo) as XBPS packages:
+Consumed by [lyargoos-repo](https://github.com/Meniny/LyargoOS-Repo) as XBPS packages:
 
 - `lyargoos-artwork` — wallpapers, logos, splash, GRUB background
 - `lyargoos-kde-theme` — KDE color scheme, SDDM theme, desktop theme

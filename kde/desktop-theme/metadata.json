@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "lyargoos@example.com",
+                "Name": "LyargoOS Team"
+            }
+        ],
+        "Category": "",
+        "Description": "LyargoOS Dark Desktop Theme",
+        "EnabledByDefault": true,
+        "Id": "lyargoos",
+        "License": "LGPL",
+        "Name": "LyargoOS Dark",
+        "Version": "1.0",
+        "Website": "https://github.com/lyargoos"
+    },
+    "X-Plasma-API": "5.0"
+}
