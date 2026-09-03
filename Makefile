@@ -12,6 +12,7 @@ install-logos:
 	cp -a logos/* $(DESTDIR)$(PREFIX)/share/pixmaps/
 	install -d $(DESTDIR)$(PREFIX)/share/icons/hicolor/scalable/apps
 	cp -a logos/lyargoos-logo.svg $(DESTDIR)$(PREFIX)/share/icons/hicolor/scalable/apps/
+	cp -a icons/lyargoos-installer.svg $(DESTDIR)$(PREFIX)/share/icons/hicolor/scalable/apps/
 
 install-splash:
 	install -d $(DESTDIR)$(PREFIX)/share/lyargoos
